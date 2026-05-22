@@ -34,13 +34,19 @@ Dashboard Insights
 This project helps businesses:
 
 Analyze overall sales performance
+
 Identify top-selling products and regions
+
 Track revenue and profit trends
+
 Understand customer purchasing behavior
+
 Improve business decision-making using data
 
 How to Use
+
 Download the .pbix file
+
 Open it in Power BI Desktop
 Load the dataset if required
 Explore the interactive dashboard
