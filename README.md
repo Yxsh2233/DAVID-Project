@@ -22,6 +22,7 @@ Business Analytics
 Project Files
 
 Sales-Report → Main Power BI dashboard file
+
 details.csv & orders.csv → Dataset used for analysis
 
 Dashboard Insights
