@@ -2,7 +2,7 @@ Sales Report Dashboard
 
 An interactive Sales Report Dashboard built using Power BI to analyze sales data and generate meaningful business insights.
 
-Features
+Features-
 
 Sales Performance Analysis
 
@@ -18,18 +18,23 @@ Customer Segment Analysis
 
 Interactive Power BI Dashboard
 
-Tech Stack
+Tech Stack-
+
 Power BI
+
 CSV Dataset
+
 Data Visualization
+
 Business Analytics
 
-Project Files
+Project Files-
+
 Sales-Report-Dashboard → Main Power BI dashboard file
 
 Sales_Report.csv → Dataset used for analysis
 
-Dashboard Insights
+Dashboard Insights-
 
 This project helps businesses:
 
@@ -43,10 +48,12 @@ Understand customer purchasing behavior
 
 Improve business decision-making using data
 
-How to Use
+How to Use-
 
 Download the .pbix file
 
 Open it in Power BI Desktop
+
 Load the dataset if required
+
 Explore the interactive dashboard
